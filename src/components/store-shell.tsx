@@ -2,7 +2,7 @@
 import Link from "next/link";
 import { usePathname, useRouter } from "next/navigation";
 import { useState } from "react";
-import { Search, Menu, X, ArrowUpRight } from "lucide-react";
+import { Search, Menu, ArrowUpRight } from "lucide-react";
 import { useDemo } from "@/lib/store";
 import { Modal } from "./ui";
 export function StoreShell({ children }: { children: React.ReactNode }) {
@@ -144,9 +144,6 @@ export function StoreShell({ children }: { children: React.ReactNode }) {
             </Link>
           ))}
         </nav>
-        <button className="text-button" onClick={() => setMenu(false)}>
-          <X size={16} /> Close menu
-        </button>
       </Modal>
     </>
   );

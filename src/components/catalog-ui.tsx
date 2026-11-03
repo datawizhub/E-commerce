@@ -90,6 +90,19 @@ export function Home({ preview = false }: { preview?: boolean }) {
             A little intention. An everyday kind of style.
           </span>
         </div>
+        {data.categories.length > 0 && (
+          <div className="category-strip">
+            <span>Find your everyday</span>
+            <div>
+              {data.categories.map((c) => (
+                <Link key={c.id} href={`/categories/${c.slug}`}>
+                  {c.title}
+                  <ArrowUpRightSmall />
+                </Link>
+              ))}
+            </div>
+          </div>
+        )}
         <div className="hero-image">
           <Image
             src={site.heroImage}
@@ -102,17 +115,6 @@ export function Home({ preview = false }: { preview?: boolean }) {
           <span className="image-caption">The everyday edit</span>
         </div>
       </section>
-      <div className="category-strip">
-        <span>Find your everyday</span>
-        <div>
-          {data.categories.map((c) => (
-            <Link key={c.id} href={`/categories/${c.slug}`}>
-              {c.title}
-              <ArrowUpRightSmall />
-            </Link>
-          ))}
-        </div>
-      </div>
       {site.sections
         .filter((s) => s.enabled)
         .map((section) => {
