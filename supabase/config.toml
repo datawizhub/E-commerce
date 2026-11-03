@@ -1,0 +1,6 @@
+project_id = "clothing-store"
+
+[functions.catalog-media-url]
+# The function verifies user sessions itself and applies public reachability checks.
+# Publishable API keys are not JWTs, so gateway JWT verification is unsuitable here.
+verify_jwt = false

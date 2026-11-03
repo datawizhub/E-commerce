@@ -1,0 +1,541 @@
+{
+  "schemaVersion": 2,
+  "generatedAt": "2026-11-02T01:29:55.330Z",
+  "title": "Design System: Common Form",
+  "extensions": {
+    "colorMeta": {
+      "paper": {
+        "role": "neutral",
+        "displayName": "Warm cream",
+        "canonical": "#fff9f6",
+        "tonalRamp": [
+          "oklch(15.00% 0.00758 48.66)",
+          "oklch(26.43% 0.00758 48.66)",
+          "oklch(37.86% 0.00758 48.66)",
+          "oklch(49.29% 0.00758 48.66)",
+          "oklch(60.71% 0.00758 48.66)",
+          "oklch(72.14% 0.00758 48.66)",
+          "oklch(83.57% 0.00758 48.66)",
+          "oklch(95.00% 0.00758 48.66)"
+        ]
+      },
+      "surface": {
+        "role": "neutral",
+        "displayName": "Surface white",
+        "canonical": "#fff",
+        "tonalRamp": [
+          "oklch(15.00% 0.00000 0.00)",
+          "oklch(26.43% 0.00000 0.00)",
+          "oklch(37.86% 0.00000 0.00)",
+          "oklch(49.29% 0.00000 0.00)",
+          "oklch(60.71% 0.00000 0.00)",
+          "oklch(72.14% 0.00000 0.00)",
+          "oklch(83.57% 0.00000 0.00)",
+          "oklch(95.00% 0.00000 0.00)"
+        ]
+      },
+      "ink": {
+        "role": "neutral",
+        "displayName": "Navy ink",
+        "canonical": "#0f151d",
+        "tonalRamp": [
+          "oklch(15.00% 0.01873 255.75)",
+          "oklch(26.43% 0.01873 255.75)",
+          "oklch(37.86% 0.01873 255.75)",
+          "oklch(49.29% 0.01873 255.75)",
+          "oklch(60.71% 0.01873 255.75)",
+          "oklch(72.14% 0.01873 255.75)",
+          "oklch(83.57% 0.01873 255.75)",
+          "oklch(95.00% 0.01873 255.75)"
+        ]
+      },
+      "muted": {
+        "role": "neutral",
+        "displayName": "Muted slate",
+        "canonical": "#5c626a",
+        "tonalRamp": [
+          "oklch(15.00% 0.01481 255.57)",
+          "oklch(26.43% 0.01481 255.57)",
+          "oklch(37.86% 0.01481 255.57)",
+          "oklch(49.29% 0.01481 255.57)",
+          "oklch(60.71% 0.01481 255.57)",
+          "oklch(72.14% 0.01481 255.57)",
+          "oklch(83.57% 0.01481 255.57)",
+          "oklch(95.00% 0.01481 255.57)"
+        ]
+      },
+      "primary": {
+        "role": "primary",
+        "displayName": "Coral",
+        "canonical": "#ff7448",
+        "tonalRamp": [
+          "oklch(15.00% 0.17991 37.95)",
+          "oklch(26.43% 0.17991 37.95)",
+          "oklch(37.86% 0.17991 37.95)",
+          "oklch(49.29% 0.17991 37.95)",
+          "oklch(60.71% 0.17991 37.95)",
+          "oklch(72.14% 0.17991 37.95)",
+          "oklch(83.57% 0.17991 37.95)",
+          "oklch(95.00% 0.17991 37.95)"
+        ]
+      },
+      "highlight": {
+        "role": "primary",
+        "displayName": "Pale coral",
+        "canonical": "#ffc8b7",
+        "tonalRamp": [
+          "oklch(15.00% 0.06732 37.87)",
+          "oklch(26.43% 0.06732 37.87)",
+          "oklch(37.86% 0.06732 37.87)",
+          "oklch(49.29% 0.06732 37.87)",
+          "oklch(60.71% 0.06732 37.87)",
+          "oklch(72.14% 0.06732 37.87)",
+          "oklch(83.57% 0.06732 37.87)",
+          "oklch(95.00% 0.06732 37.87)"
+        ]
+      },
+      "secondary": {
+        "role": "secondary",
+        "displayName": "Pale blue",
+        "canonical": "#d3e1ff",
+        "tonalRamp": [
+          "oklch(15.00% 0.04383 265.60)",
+          "oklch(26.43% 0.04383 265.60)",
+          "oklch(37.86% 0.04383 265.60)",
+          "oklch(49.29% 0.04383 265.60)",
+          "oklch(60.71% 0.04383 265.60)",
+          "oklch(72.14% 0.04383 265.60)",
+          "oklch(83.57% 0.04383 265.60)",
+          "oklch(95.00% 0.04383 265.60)"
+        ]
+      },
+      "dark-surface": {
+        "role": "neutral",
+        "displayName": "Deep navy surface",
+        "canonical": "#1b232e",
+        "tonalRamp": [
+          "oklch(15.00% 0.02391 256.44)",
+          "oklch(26.43% 0.02391 256.44)",
+          "oklch(37.86% 0.02391 256.44)",
+          "oklch(49.29% 0.02391 256.44)",
+          "oklch(60.71% 0.02391 256.44)",
+          "oklch(72.14% 0.02391 256.44)",
+          "oklch(83.57% 0.02391 256.44)",
+          "oklch(95.00% 0.02391 256.44)"
+        ]
+      },
+      "accent-ink": {
+        "role": "primary",
+        "displayName": "Dark coral ink",
+        "canonical": "#c84d28",
+        "tonalRamp": [
+          "oklch(15.00% 0.16490 36.88)",
+          "oklch(26.43% 0.16490 36.88)",
+          "oklch(37.86% 0.16490 36.88)",
+          "oklch(49.29% 0.16490 36.88)",
+          "oklch(60.71% 0.16490 36.88)",
+          "oklch(72.14% 0.16490 36.88)",
+          "oklch(83.57% 0.16490 36.88)",
+          "oklch(95.00% 0.16490 36.88)"
+        ]
+      },
+      "primary-hover": {
+        "role": "primary",
+        "displayName": "Hover coral",
+        "canonical": "#ff8d69",
+        "tonalRamp": [
+          "oklch(15.00% 0.14717 38.25)",
+          "oklch(26.43% 0.14717 38.25)",
+          "oklch(37.86% 0.14717 38.25)",
+          "oklch(49.29% 0.14717 38.25)",
+          "oklch(60.71% 0.14717 38.25)",
+          "oklch(72.14% 0.14717 38.25)",
+          "oklch(83.57% 0.14717 38.25)",
+          "oklch(95.00% 0.14717 38.25)"
+        ]
+      },
+      "line": {
+        "role": "neutral",
+        "displayName": "Warm fine line",
+        "canonical": "#e2dcd8",
+        "tonalRamp": [
+          "oklch(15.00% 0.00855 56.30)",
+          "oklch(26.43% 0.00855 56.30)",
+          "oklch(37.86% 0.00855 56.30)",
+          "oklch(49.29% 0.00855 56.30)",
+          "oklch(60.71% 0.00855 56.30)",
+          "oklch(72.14% 0.00855 56.30)",
+          "oklch(83.57% 0.00855 56.30)",
+          "oklch(95.00% 0.00855 56.30)"
+        ]
+      },
+      "soft": {
+        "role": "neutral",
+        "displayName": "Soft cream",
+        "canonical": "#fff0e9",
+        "tonalRamp": [
+          "oklch(15.00% 0.01880 46.81)",
+          "oklch(26.43% 0.01880 46.81)",
+          "oklch(37.86% 0.01880 46.81)",
+          "oklch(49.29% 0.01880 46.81)",
+          "oklch(60.71% 0.01880 46.81)",
+          "oklch(72.14% 0.01880 46.81)",
+          "oklch(83.57% 0.01880 46.81)",
+          "oklch(95.00% 0.01880 46.81)"
+        ]
+      },
+      "error": {
+        "role": "semantic",
+        "displayName": "Error red",
+        "canonical": "#b42318",
+        "tonalRamp": [
+          "oklch(15.00% 0.18205 29.51)",
+          "oklch(26.43% 0.18205 29.51)",
+          "oklch(37.86% 0.18205 29.51)",
+          "oklch(49.29% 0.18205 29.51)",
+          "oklch(60.71% 0.18205 29.51)",
+          "oklch(72.14% 0.18205 29.51)",
+          "oklch(83.57% 0.18205 29.51)",
+          "oklch(95.00% 0.18205 29.51)"
+        ]
+      },
+      "focus": {
+        "role": "semantic",
+        "displayName": "Focus blue",
+        "canonical": "#1d4ed8",
+        "tonalRamp": [
+          "oklch(15.00% 0.21717 264.38)",
+          "oklch(26.43% 0.21717 264.38)",
+          "oklch(37.86% 0.21717 264.38)",
+          "oklch(49.29% 0.21717 264.38)",
+          "oklch(60.71% 0.21717 264.38)",
+          "oklch(72.14% 0.21717 264.38)",
+          "oklch(83.57% 0.21717 264.38)",
+          "oklch(95.00% 0.21717 264.38)"
+        ]
+      }
+    },
+    "typographyMeta": {
+      "display": {
+        "displayName": "Display",
+        "purpose": "Hero; tablet/mobile clamps override desktop."
+      },
+      "headline": {
+        "displayName": "Headline",
+        "purpose": "Listing title; mobile uses 40px."
+      },
+      "section": {
+        "displayName": "Section",
+        "purpose": "Storefront section title; 34px at 850px, 29px at 700px."
+      },
+      "title": {
+        "displayName": "Title",
+        "purpose": "Admin heading; 32px at 850px, 31px at 700px."
+      },
+      "body": {
+        "displayName": "Body",
+        "purpose": "Default prose and fields; paragraphs cap at 70ch."
+      },
+      "label": {
+        "displayName": "Label",
+        "purpose": "Field labels."
+      },
+      "button": {
+        "displayName": "Button",
+        "purpose": "Shared action labels; compact admin heading actions use 13px/12px."
+      },
+      "navigation": {
+        "displayName": "Navigation",
+        "purpose": "Desktop store links; 12px at 1150px."
+      },
+      "badge": {
+        "displayName": "Badge",
+        "purpose": "Compact admin statuses; product labels use medium weight."
+      }
+    },
+    "shadows": [
+      {
+        "name": "floating-store-navigation",
+        "value": "0 8px 24px #0f151d12",
+        "purpose": "Inset white store navigation."
+      },
+      {
+        "name": "dialog",
+        "value": "0 16px 64px #0003",
+        "purpose": "Native dialog elevation."
+      },
+      {
+        "name": "mobile-admin-navigation",
+        "value": "12px 20px 30px #0001",
+        "purpose": "Mobile overlay sidebar only."
+      }
+    ],
+    "motion": [
+      {
+        "name": "ease",
+        "value": "cubic-bezier(0.16, 1, 0.3, 1)",
+        "purpose": "Shared image and mobile navigation easing, from --ease."
+      },
+      {
+        "name": "state-transition",
+        "value": "background-color 0.18s, color 0.18s, border-color 0.18s",
+        "purpose": "Observed global transition on buttons in hover state, links and fields."
+      },
+      {
+        "name": "hero-reveal",
+        "value": "hero-reveal 1.1s var(--ease) both",
+        "purpose": "Image clip-path from inset(0 0 2% 0) to inset(0)."
+      },
+      {
+        "name": "product-image-hover",
+        "value": "transform 0.65s var(--ease)",
+        "purpose": "Product photograph scale(1.035) on hover."
+      },
+      {
+        "name": "product-arrow",
+        "value": "opacity 0.2s",
+        "purpose": "Arrow reveals on image-link hover and focus-visible."
+      },
+      {
+        "name": "mobile-admin-navigation",
+        "value": "transform 0.25s var(--ease)",
+        "purpose": "Sidebar slides from translateX(-100%) to translateX(0)."
+      },
+      {
+        "name": "reduced-motion",
+        "value": "@media (prefers-reduced-motion: reduce)",
+        "purpose": "Disable all animations and transitions; reset smooth scrolling to auto."
+      }
+    ],
+    "breakpoints": [
+      {
+        "name": "wide",
+        "value": "1600px",
+        "condition": "min-width"
+      },
+      {
+        "name": "compact-desktop",
+        "value": "1150px",
+        "condition": "max-width"
+      },
+      {
+        "name": "stacked-hero",
+        "value": "950px",
+        "condition": "max-width"
+      },
+      {
+        "name": "medium",
+        "value": "850px",
+        "condition": "max-width"
+      },
+      {
+        "name": "small",
+        "value": "700px",
+        "condition": "max-width"
+      }
+    ],
+    "overlays": {
+      "dialogBackdrop": {
+        "background": "#0f151dc4",
+        "backdropFilter": "blur(3px)"
+      },
+      "focusVisible": {
+        "outline": "2px solid var(--focus)",
+        "outlineOffset": "4px"
+      }
+    },
+    "aliases": {
+      "colors": {
+        "paper": "--paper",
+        "surface": "--surface",
+        "ink": "--ink",
+        "muted": "--muted",
+        "primary": "--primary",
+        "highlight": "--highlight",
+        "secondary": "--secondary",
+        "dark-surface": "--dark-surface",
+        "accent-ink": "--accent-ink",
+        "primary-hover": "--primary-hover",
+        "line": "--line",
+        "soft": "--soft",
+        "error": "--error",
+        "focus": "--focus"
+      },
+      "typography": {
+        "display": {
+          "fontFamily": "--font"
+        },
+        "headline": {
+          "fontFamily": "--font"
+        },
+        "section": {
+          "fontFamily": "--font"
+        },
+        "title": {
+          "fontFamily": "--font"
+        },
+        "body": {
+          "fontFamily": "--font"
+        },
+        "label": {
+          "fontFamily": "--font"
+        },
+        "button": {
+          "fontFamily": "--font"
+        },
+        "navigation": {
+          "fontFamily": "--font"
+        },
+        "badge": {
+          "fontFamily": "--font"
+        }
+      },
+      "fontFamily": "--font-inter",
+      "rounded": {
+        "control": "--radius",
+        "panel": "--panel-radius",
+        "image": "--image-radius"
+      },
+      "spacing": {
+        "base": "--space"
+      },
+      "motion": {
+        "ease": "--ease"
+      }
+    },
+    "context": {
+      "cascade": "layout.tsx imports globals.css first, theme.css last; specificity preserves compact admin heading actions.",
+      "responsiveRadii": {
+        "700px": {
+          "panel": "24px",
+          "image": "18px",
+          "workspace": "14px"
+        }
+      },
+      "adminFields": "10px inside form sections; generic shared fields 12px. Workspace panels are 16px desktop / 14px mobile.",
+      "font": "Self-hosted Inter variable via next/font/local; display swap; declared 100 900. --font resolves var(--font-inter), Arial, Helvetica, sans-serif.",
+      "fontSource": "Official Google Fonts distribution; src/app/fonts/SOURCES.md and OFL.txt.",
+      "detectorInterpretation": "Old-system palette/type/radius advisories reflect the intentional user-pinned reference adaptation; preserve the approved styles rather than suppressing source output.",
+      "semanticExceptions": "Success feedback retains #e8f1e9; badge.green now uses #d3e1ff with #273c62. These are status contexts.",
+      "minimumHeights": "Shared action 48px; hero action 54px desktop / 49px mobile; admin heading action 42px mobile. Shared field 43px.",
+      "overviewAction": "Admin introduction action uses navy/cream and dark-surface hover, independently of the shared coral button.",
+      "photoFrames": "Panel radius 50px desktop / 24px at 700px; product/collection/detail image radius 24px / 18px. Photographic cards remain unboxed."
+    },
+    "provenance": {
+      "mode": "scan",
+      "authority": "Owner-approved Nomu typography/colour adaptation in docs/NOMU-RESTYLE.md supersedes the provisional system.",
+      "sourceOfTruth": [
+        "src/app/globals.css",
+        "src/app/theme.css",
+        "src/app/layout.tsx"
+      ],
+      "evidence": [
+        "PRODUCT.md",
+        "docs/NOMU-RESTYLE.md",
+        "docs/SURFACES.md",
+        "src/app/fonts/SOURCES.md",
+        "src/app/fonts/OFL.txt"
+      ],
+      "derivedMetadata": "Tonal ramps are synthesized OKLCH previews from exact CSS colors, not additional shipped tokens. Component snippets expand observed styles into self-contained preview CSS."
+    }
+  },
+  "components": [
+    {
+      "name": "Primary Button",
+      "kind": "button",
+      "refersTo": "button-primary",
+      "description": "Shared pill action; compact admin heading overrides are documented separately.",
+      "html": "<button class=\"ds-btn-primary\">Explore collection</button>",
+      "css": ".ds-btn-primary{font-family:var(--font,Inter,Arial,Helvetica,sans-serif);display:inline-flex;align-items:center;justify-content:center;gap:12px;min-height:48px;padding:13px 24px;border:1px solid var(--primary,#ff7448);border-radius:999px;font-size:14px;font-weight:600;line-height:1.55;cursor:pointer;transition:background-color .18s,color .18s,border-color .18s;background:var(--primary,#ff7448);color:var(--ink,#0f151d);border-color:var(--primary,#ff7448);}.ds-btn-primary:hover{background:var(--primary-hover,#ff8d69);border-color:var(--primary-hover,#ff8d69);}.ds-btn-primary:focus-visible{outline:2px solid var(--focus,#1d4ed8);outline-offset:4px;}.ds-btn-primary:disabled{opacity:.4;cursor:not-allowed;}"
+    },
+    {
+      "name": "Secondary Button",
+      "kind": "button",
+      "refersTo": "button-secondary",
+      "description": "Shared pill action; compact admin heading overrides are documented separately.",
+      "html": "<button class=\"ds-btn-secondary\">Cancel</button>",
+      "css": ".ds-btn-secondary{font-family:var(--font,Inter,Arial,Helvetica,sans-serif);display:inline-flex;align-items:center;justify-content:center;gap:12px;min-height:48px;padding:13px 24px;border:1px solid var(--primary,#ff7448);border-radius:999px;font-size:14px;font-weight:600;line-height:1.55;cursor:pointer;transition:background-color .18s,color .18s,border-color .18s;background:transparent;color:var(--ink,#0f151d);border-color:var(--line,#e2dcd8);}.ds-btn-secondary:hover{background:var(--secondary,#d3e1ff);}.ds-btn-secondary:focus-visible{outline:2px solid var(--focus,#1d4ed8);outline-offset:4px;}.ds-btn-secondary:disabled{opacity:.4;cursor:not-allowed;}"
+    },
+    {
+      "name": "Danger Button",
+      "kind": "button",
+      "refersTo": "button-danger",
+      "description": "Shared pill action; compact admin heading overrides are documented separately.",
+      "html": "<button class=\"ds-btn-danger\">Delete product</button>",
+      "css": ".ds-btn-danger{font-family:var(--font,Inter,Arial,Helvetica,sans-serif);display:inline-flex;align-items:center;justify-content:center;gap:12px;min-height:48px;padding:13px 24px;border:1px solid var(--primary,#ff7448);border-radius:999px;font-size:14px;font-weight:600;line-height:1.55;cursor:pointer;transition:background-color .18s,color .18s,border-color .18s;background:var(--error,#b42318);color:#fff;border-color:var(--error,#b42318);}.ds-btn-danger:hover{background:#8c2017;border-color:#8c2017;}.ds-btn-danger:focus-visible{outline:2px solid var(--focus,#1d4ed8);outline-offset:4px;}.ds-btn-danger:disabled{opacity:.4;cursor:not-allowed;}"
+    },
+    {
+      "name": "Labelled Field",
+      "kind": "input",
+      "refersTo": "field",
+      "description": "White shared field; form-section fields override its radius to 10px.",
+      "html": "<label class=\"ds-field-label\">Product name<input class=\"ds-field\" placeholder=\"Everyday shirt\"></label>",
+      "css": ".ds-field-label{font-family:var(--font,Inter,Arial,Helvetica,sans-serif);display:block;font-size:14px;font-weight:500;color:var(--ink,#0f151d);}.ds-field{font-family:var(--font,Inter,Arial,Helvetica,sans-serif);display:block;box-sizing:border-box;width:100%;min-height:43px;margin-top:7px;padding:10px 12px;border:1px solid var(--line,#e2dcd8);border-radius:var(--radius,12px);background:var(--surface,#fff);color:var(--ink,#0f151d);font-size:15px;line-height:1.55;transition:background-color .18s,color .18s,border-color .18s;}.ds-field:focus-visible{outline:2px solid var(--focus,#1d4ed8);outline-offset:4px;}.ds-field:read-only{background:var(--soft,#fff0e9);}"
+    },
+    {
+      "name": "Store Navigation",
+      "kind": "nav",
+      "refersTo": "navigation-store",
+      "description": "Inset white pill with active underline and coral promotion.",
+      "html": "<nav class=\"ds-nav\" aria-label=\"Store\"><a class=\"ds-wordmark\" href=\"#\">COMMON FORM</a><a href=\"#\" aria-current=\"page\">Shop</a><a class=\"ds-promo\" href=\"#\">Offers</a></nav>",
+      "css": ".ds-nav{font-family:var(--font,Inter,Arial,Helvetica,sans-serif);display:flex;align-items:center;gap:25px;min-height:76px;padding:0 25px 0 30px;border-radius:999px;background:var(--surface,#fff);color:var(--ink,#0f151d);box-shadow:0 8px 24px #0f151d12;font-size:13px;}.ds-nav a{color:inherit;text-decoration:none;transition:background-color .18s,color .18s,border-color .18s;}.ds-nav a:hover{text-decoration:underline;}.ds-nav a:focus-visible{outline:2px solid var(--focus,#1d4ed8);outline-offset:4px;}.ds-nav [aria-current]{text-decoration:underline;text-decoration-color:var(--accent-ink,#c84d28);text-decoration-thickness:2px;}.ds-wordmark{font-size:22px;font-weight:650;letter-spacing:-.04em;margin-right:auto;}.ds-promo{background:var(--primary,#ff7448);border-radius:999px;padding:10px 18px;font-weight:500;}"
+    },
+    {
+      "name": "Status Badge",
+      "kind": "chip",
+      "refersTo": "badge",
+      "description": "Compact informational status; pale blue replaces the previous green class styling.",
+      "html": "<span class=\"ds-badge\">Draft</span> <span class=\"ds-badge ds-badge-status\">Active</span>",
+      "css": ".ds-badge{font-family:var(--font,Inter,Arial,Helvetica,sans-serif);display:inline-flex;align-items:center;background:var(--soft,#fff0e9);color:var(--muted,#5c626a);border-radius:999px;padding:4px 9px;font-size:11px;line-height:1.55;text-transform:capitalize;white-space:nowrap;}.ds-badge-status{background:var(--secondary,#d3e1ff);color:#273c62;}"
+    },
+    {
+      "name": "Workspace Panel",
+      "kind": "card",
+      "refersTo": "form-section",
+      "description": "Flat, fine-bordered working panel with compact corners.",
+      "html": "<section class=\"ds-panel\"><h2>Product details</h2><p>Manage the garment information.</p></section>",
+      "css": ".ds-panel{font-family:var(--font,Inter,Arial,Helvetica,sans-serif);padding:26px;background:var(--surface,#fff);color:var(--ink,#0f151d);border:1px solid var(--line,#e2dcd8);border-radius:16px;}.ds-panel h2{font-size:19px;font-weight:500;line-height:1.15;letter-spacing:-.015em;margin:0 0 22px;}.ds-panel p{font-size:13px;line-height:1.55;margin:0;}@media(max-width:700px){.ds-panel{padding:22px 18px;border-radius:14px;}}"
+    },
+    {
+      "name": "Variant Choice",
+      "kind": "chip",
+      "refersTo": "button-secondary",
+      "description": "Actual product variant selector: selected navy pill; unavailable choices retain strike-through.",
+      "html": "<div class=\"ds-options\" aria-label=\"Size\"><button class=\"ds-option\" aria-pressed=\"true\">M</button><button class=\"ds-option\" aria-pressed=\"false\">L</button></div>",
+      "css": ".ds-options{display:flex;gap:8px;}.ds-option{font-family:var(--font,Inter,Arial,Helvetica,sans-serif);padding:10px 17px;min-width:48px;min-height:44px;border:1px solid var(--line,#e2dcd8);border-radius:999px;background:transparent;color:var(--ink,#0f151d);font-size:13px;cursor:pointer;transition:background-color .18s,color .18s,border-color .18s;}.ds-option[aria-pressed=\"true\"]{background:var(--ink,#0f151d);color:var(--paper,#fff9f6);border-color:var(--ink,#0f151d);}.ds-option:focus-visible{outline:2px solid var(--focus,#1d4ed8);outline-offset:4px;}.ds-option-unavailable{text-decoration:line-through;color:var(--muted,#5c626a);}"
+    }
+  ],
+  "narrative": {
+    "northStar": "Everyday, considered.",
+    "overview": "Warm cream, navy type and coral actions frame calm clothing photography. The owner-approved Nomu reference supplies readable Inter typography, floating pill navigation and generous photographic corners; Common Form keeps its own demonstration wordmark and clothing content.\n\nStorefront browsing is spacious; administration stays compact and task-focused. Shared type and palette connect these densities. The approved reference adaptation replaces the former provisional palette, system typography and square photographs.",
+    "keyCharacteristics": [
+      "Self-hosted Inter with medium-weight, tightly spaced headings.",
+      "Cream and white grounds, navy text, coral actions and pale blue support.",
+      "Rounded photographic panels and pill actions; compact labelled admin tools."
+    ],
+    "rules": [
+      {
+        "name": "The Readable Coral Rule",
+        "body": "Use navy text on coral controls; use the darker accent ink for headline emphasis on cream.",
+        "section": "colors"
+      },
+      {
+        "name": "The Contextual Corner Rule",
+        "body": "Use large corners for photography, pills for actions, and compact corners for working forms.",
+        "section": "shapes"
+      }
+    ],
+    "dos": [
+      "Do use the approved Inter, cream, navy and coral system on both surfaces.",
+      "Do keep garment photography prominent and product cards unboxed.",
+      "Do retain compact admin forms, actual variant prices and visible local-preview wording.",
+      "Do preserve keyboard focus, reduced motion and contained mobile table scrolling."
+    ],
+    "donts": [
+      "Don't reintroduce the superseded forest palette, system-only type or square photographic treatment.",
+      "Don't apply photographic panel corners to every admin field or table.",
+      "Don't copy Nomu logos, its custom NomNom face, or its business and manufacturing claims.",
+      "Don't imply checkout, authentication, backend connectivity or production administration."
+    ]
+  }
+}

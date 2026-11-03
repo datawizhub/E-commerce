@@ -1,0 +1,1678 @@
+{
+  "title": "Nomu - Create your merch in 5 minutes at the best price",
+  "headings": [
+    {
+      "tag": "H1",
+      "text": "From prompt, to product.",
+      "font": "Inter, \"Inter Fallback\", system-ui, -apple-system, sans-serif",
+      "size": "103.68px",
+      "weight": "500",
+      "lineHeight": "105.754px",
+      "tracking": "-5.184px",
+      "color": "rgb(15, 21, 29)",
+      "background": "rgba(0, 0, 0, 0)",
+      "radius": "0px",
+      "padding": "0px",
+      "border": "0px solid lab(90.952 0 -0.0000119209)",
+      "box": {
+        "x": 417.8125,
+        "y": 301.453125,
+        "width": 604.375,
+        "height": 211.5,
+        "top": 301.453125,
+        "right": 1022.1875,
+        "bottom": 512.953125,
+        "left": 417.8125
+      }
+    },
+    {
+      "tag": "H2",
+      "text": "Vibe manufacture your own BP26 merch",
+      "font": "Inter, \"Inter Fallback\", system-ui, -apple-system, sans-serif",
+      "size": "48px",
+      "weight": "500",
+      "lineHeight": "48px",
+      "tracking": "normal",
+      "color": "rgb(15, 21, 29)",
+      "background": "rgba(0, 0, 0, 0)",
+      "radius": "0px",
+      "padding": "0px",
+      "border": "0px solid lab(90.952 0 -0.0000119209)",
+      "box": {
+        "x": 432,
+        "y": 1352,
+        "width": 576,
+        "height": 96,
+        "top": 1352,
+        "right": 1008,
+        "bottom": 1448,
+        "left": 432
+      }
+    },
+    {
+      "tag": "H2",
+      "text": "Oh yeah, and all this too.",
+      "font": "Inter, \"Inter Fallback\", system-ui, -apple-system, sans-serif",
+      "size": "48px",
+      "weight": "500",
+      "lineHeight": "48px",
+      "tracking": "normal",
+      "color": "rgb(15, 21, 29)",
+      "background": "rgba(0, 0, 0, 0)",
+      "radius": "0px",
+      "padding": "0px",
+      "border": "0px solid lab(90.952 0 -0.0000119209)",
+      "box": {
+        "x": 64,
+        "y": 2311.640625,
+        "width": 564.59375,
+        "height": 48,
+        "top": 2311.640625,
+        "right": 628.59375,
+        "bottom": 2359.640625,
+        "left": 64
+      }
+    },
+    {
+      "tag": "H3",
+      "text": "Ship globally without headaches.",
+      "font": "Inter, \"Inter Fallback\", system-ui, -apple-system, sans-serif",
+      "size": "30px",
+      "weight": "500",
+      "lineHeight": "36px",
+      "tracking": "normal",
+      "color": "rgb(15, 21, 29)",
+      "background": "rgba(0, 0, 0, 0)",
+      "radius": "0px",
+      "padding": "0px",
+      "border": "0px solid lab(90.952 0 -0.0000119209)",
+      "box": {
+        "x": 121,
+        "y": 2480.640625,
+        "width": 312.65625,
+        "height": 72,
+        "top": 2480.640625,
+        "right": 433.65625,
+        "bottom": 2552.640625,
+        "left": 121
+      }
+    },
+    {
+      "tag": "H3",
+      "text": "Launch a new store that converts every visitor.",
+      "font": "Inter, \"Inter Fallback\", system-ui, -apple-system, sans-serif",
+      "size": "30px",
+      "weight": "500",
+      "lineHeight": "36px",
+      "tracking": "normal",
+      "color": "rgb(15, 21, 29)",
+      "background": "rgba(0, 0, 0, 0)",
+      "radius": "0px",
+      "padding": "0px",
+      "border": "0px solid lab(90.952 0 -0.0000119209)",
+      "box": {
+        "x": 563.65625,
+        "y": 2480.640625,
+        "width": 755.34375,
+        "height": 36,
+        "top": 2480.640625,
+        "right": 1319,
+        "bottom": 2516.640625,
+        "left": 563.65625
+      }
+    },
+    {
+      "tag": "H2",
+      "text": "Get your full commerce ops, out-of-the-box.",
+      "font": "Inter, \"Inter Fallback\", system-ui, -apple-system, sans-serif",
+      "size": "48px",
+      "weight": "500",
+      "lineHeight": "48px",
+      "tracking": "normal",
+      "color": "rgb(255, 255, 255)",
+      "background": "rgba(0, 0, 0, 0)",
+      "radius": "0px",
+      "padding": "0px",
+      "border": "0px solid lab(90.952 0 -0.0000119209)",
+      "box": {
+        "x": 96,
+        "y": 4034.640625,
+        "width": 1248,
+        "height": 96,
+        "top": 4034.640625,
+        "right": 1344,
+        "bottom": 4130.640625,
+        "left": 96
+      }
+    },
+    {
+      "tag": "H3",
+      "text": "The story so far",
+      "font": "Inter, \"Inter Fallback\", system-ui, -apple-system, sans-serif",
+      "size": "14px",
+      "weight": "400",
+      "lineHeight": "20px",
+      "tracking": "2.8px",
+      "color": "oklab(0.999994 0.0000455677 0.0000200868 / 0.6)",
+      "background": "rgba(0, 0, 0, 0)",
+      "radius": "0px",
+      "padding": "0px",
+      "border": "0px solid lab(90.952 0 -0.0000119209)",
+      "box": {
+        "x": 64,
+        "y": 4497.640625,
+        "width": 1312,
+        "height": 20,
+        "top": 4497.640625,
+        "right": 1376,
+        "bottom": 4517.640625,
+        "left": 64
+      }
+    },
+    {
+      "tag": "H2",
+      "text": "Your next drop.Less to manage.",
+      "font": "Inter, \"Inter Fallback\", system-ui, -apple-system, sans-serif",
+      "size": "48px",
+      "weight": "500",
+      "lineHeight": "48px",
+      "tracking": "normal",
+      "color": "rgb(15, 21, 29)",
+      "background": "rgba(0, 0, 0, 0)",
+      "radius": "0px",
+      "padding": "0px",
+      "border": "0px solid lab(90.952 0 -0.0000119209)",
+      "box": {
+        "x": 96,
+        "y": 6201.640625,
+        "width": 376.015625,
+        "height": 96,
+        "top": 6201.640625,
+        "right": 472.015625,
+        "bottom": 6297.640625,
+        "left": 96
+      }
+    },
+    {
+      "tag": "H2",
+      "text": "You got questions? We got answers.",
+      "font": "Inter, \"Inter Fallback\", system-ui, -apple-system, sans-serif",
+      "size": "48px",
+      "weight": "500",
+      "lineHeight": "48px",
+      "tracking": "normal",
+      "color": "rgb(15, 21, 29)",
+      "background": "rgba(0, 0, 0, 0)",
+      "radius": "0px",
+      "padding": "0px",
+      "border": "0px solid lab(90.952 0 -0.0000119209)",
+      "box": {
+        "x": 96,
+        "y": 7325.640625,
+        "width": 1248,
+        "height": 96,
+        "top": 7325.640625,
+        "right": 1344,
+        "bottom": 7421.640625,
+        "left": 96
+      }
+    },
+    {
+      "tag": "H3",
+      "text": "What's the minimum order?",
+      "font": "Inter, \"Inter Fallback\", system-ui, -apple-system, sans-serif",
+      "size": "16px",
+      "weight": "400",
+      "lineHeight": "24px",
+      "tracking": "normal",
+      "color": "rgb(15, 21, 29)",
+      "background": "rgba(0, 0, 0, 0)",
+      "radius": "0px",
+      "padding": "0px",
+      "border": "0px solid lab(90.952 0 -0.0000119209)",
+      "box": {
+        "x": 96,
+        "y": 7479.640625,
+        "width": 1248,
+        "height": 76,
+        "top": 7479.640625,
+        "right": 1344,
+        "bottom": 7555.640625,
+        "left": 96
+      }
+    },
+    {
+      "tag": "H3",
+      "text": "How fast is this, really?",
+      "font": "Inter, \"Inter Fallback\", system-ui, -apple-system, sans-serif",
+      "size": "16px",
+      "weight": "400",
+      "lineHeight": "24px",
+      "tracking": "normal",
+      "color": "rgb(15, 21, 29)",
+      "background": "rgba(0, 0, 0, 0)",
+      "radius": "0px",
+      "padding": "0px",
+      "border": "0px solid lab(90.952 0 -0.0000119209)",
+      "box": {
+        "x": 96,
+        "y": 7658.640625,
+        "width": 1248,
+        "height": 76,
+        "top": 7658.640625,
+        "right": 1344,
+        "bottom": 7734.640625,
+        "left": 96
+      }
+    },
+    {
+      "tag": "H3",
+      "text": "What does Nomu cost?",
+      "font": "Inter, \"Inter Fallback\", system-ui, -apple-system, sans-serif",
+      "size": "16px",
+      "weight": "400",
+      "lineHeight": "24px",
+      "tracking": "normal",
+      "color": "rgb(15, 21, 29)",
+      "background": "rgba(0, 0, 0, 0)",
+      "radius": "0px",
+      "padding": "0px",
+      "border": "0px solid lab(90.952 0 -0.0000119209)",
+      "box": {
+        "x": 96,
+        "y": 7735.640625,
+        "width": 1248,
+        "height": 76,
+        "top": 7735.640625,
+        "right": 1344,
+        "bottom": 7811.640625,
+        "left": 96
+      }
+    },
+    {
+      "tag": "H3",
+      "text": "What if a batch comes back wrong?",
+      "font": "Inter, \"Inter Fallback\", system-ui, -apple-system, sans-serif",
+      "size": "16px",
+      "weight": "400",
+      "lineHeight": "24px",
+      "tracking": "normal",
+      "color": "rgb(15, 21, 29)",
+      "background": "rgba(0, 0, 0, 0)",
+      "radius": "0px",
+      "padding": "0px",
+      "border": "0px solid lab(90.952 0 -0.0000119209)",
+      "box": {
+        "x": 96,
+        "y": 7812.640625,
+        "width": 1248,
+        "height": 76,
+        "top": 7812.640625,
+        "right": 1344,
+        "bottom": 7888.640625,
+        "left": 96
+      }
+    },
+    {
+      "tag": "H3",
+      "text": "What if I don't have a product yet?",
+      "font": "Inter, \"Inter Fallback\", system-ui, -apple-system, sans-serif",
+      "size": "16px",
+      "weight": "400",
+      "lineHeight": "24px",
+      "tracking": "normal",
+      "color": "rgb(15, 21, 29)",
+      "background": "rgba(0, 0, 0, 0)",
+      "radius": "0px",
+      "padding": "0px",
+      "border": "0px solid lab(90.952 0 -0.0000119209)",
+      "box": {
+        "x": 96,
+        "y": 7889.640625,
+        "width": 1248,
+        "height": 76,
+        "top": 7889.640625,
+        "right": 1344,
+        "bottom": 7965.640625,
+        "left": 96
+      }
+    },
+    {
+      "tag": "H3",
+      "text": "Do I need to know anything about crypto to use Nomu?",
+      "font": "Inter, \"Inter Fallback\", system-ui, -apple-system, sans-serif",
+      "size": "16px",
+      "weight": "400",
+      "lineHeight": "24px",
+      "tracking": "normal",
+      "color": "rgb(15, 21, 29)",
+      "background": "rgba(0, 0, 0, 0)",
+      "radius": "0px",
+      "padding": "0px",
+      "border": "0px solid lab(90.952 0 -0.0000119209)",
+      "box": {
+        "x": 96,
+        "y": 7966.640625,
+        "width": 1248,
+        "height": 76,
+        "top": 7966.640625,
+        "right": 1344,
+        "bottom": 8042.640625,
+        "left": 96
+      }
+    },
+    {
+      "tag": "H2",
+      "text": "You're the creative director.",
+      "font": "Inter, \"Inter Fallback\", system-ui, -apple-system, sans-serif",
+      "size": "48px",
+      "weight": "500",
+      "lineHeight": "48px",
+      "tracking": "normal",
+      "color": "rgb(15, 21, 29)",
+      "background": "rgba(0, 0, 0, 0)",
+      "radius": "0px",
+      "padding": "0px",
+      "border": "0px solid lab(90.952 0 -0.0000119209)",
+      "box": {
+        "x": 96,
+        "y": 8256.640625,
+        "width": 592,
+        "height": 96,
+        "top": 8256.640625,
+        "right": 688,
+        "bottom": 8352.640625,
+        "left": 96
+      }
+    },
+    {
+      "tag": "H2",
+      "text": "We're everything else.",
+      "font": "Inter, \"Inter Fallback\", system-ui, -apple-system, sans-serif",
+      "size": "48px",
+      "weight": "500",
+      "lineHeight": "48px",
+      "tracking": "normal",
+      "color": "rgb(15, 21, 29)",
+      "background": "rgba(0, 0, 0, 0)",
+      "radius": "0px",
+      "padding": "0px",
+      "border": "0px solid lab(90.952 0 -0.0000119209)",
+      "box": {
+        "x": 752,
+        "y": 8256.640625,
+        "width": 592,
+        "height": 96,
+        "top": 8256.640625,
+        "right": 1344,
+        "bottom": 8352.640625,
+        "left": 752
+      }
+    },
+    {
+      "tag": "H3",
+      "text": "Past drops",
+      "font": "Inter, \"Inter Fallback\", system-ui, -apple-system, sans-serif",
+      "size": "16px",
+      "weight": "500",
+      "lineHeight": "24px",
+      "tracking": "normal",
+      "color": "oklab(0.988081 0.0000450611 0.0000197887 / 0.7)",
+      "background": "rgba(0, 0, 0, 0)",
+      "radius": "0px",
+      "padding": "0px",
+      "border": "0px solid lab(90.952 0 -0.0000119209)",
+      "box": {
+        "x": 440,
+        "y": 9192.640625,
+        "width": 81.5625,
+        "height": 24,
+        "top": 9192.640625,
+        "right": 521.5625,
+        "bottom": 9216.640625,
+        "left": 440
+      }
+    },
+    {
+      "tag": "H3",
+      "text": "Resources",
+      "font": "Inter, \"Inter Fallback\", system-ui, -apple-system, sans-serif",
+      "size": "16px",
+      "weight": "500",
+      "lineHeight": "24px",
+      "tracking": "normal",
+      "color": "oklab(0.988081 0.0000450611 0.0000197887 / 0.7)",
+      "background": "rgba(0, 0, 0, 0)",
+      "radius": "0px",
+      "padding": "0px",
+      "border": "0px solid lab(90.952 0 -0.0000119209)",
+      "box": {
+        "x": 672,
+        "y": 9192.640625,
+        "width": 80.59375,
+        "height": 24,
+        "top": 9192.640625,
+        "right": 752.59375,
+        "bottom": 9216.640625,
+        "left": 672
+      }
+    },
+    {
+      "tag": "H3",
+      "text": "Nommunity",
+      "font": "Inter, \"Inter Fallback\", system-ui, -apple-system, sans-serif",
+      "size": "16px",
+      "weight": "500",
+      "lineHeight": "24px",
+      "tracking": "normal",
+      "color": "oklab(0.988081 0.0000450611 0.0000197887 / 0.7)",
+      "background": "rgba(0, 0, 0, 0)",
+      "radius": "0px",
+      "padding": "0px",
+      "border": "0px solid lab(90.952 0 -0.0000119209)",
+      "box": {
+        "x": 904,
+        "y": 9192.640625,
+        "width": 88.453125,
+        "height": 24,
+        "top": 9192.640625,
+        "right": 992.453125,
+        "bottom": 9216.640625,
+        "left": 904
+      }
+    },
+    {
+      "tag": "H3",
+      "text": "Social",
+      "font": "Inter, \"Inter Fallback\", system-ui, -apple-system, sans-serif",
+      "size": "16px",
+      "weight": "500",
+      "lineHeight": "24px",
+      "tracking": "normal",
+      "color": "oklab(0.988081 0.0000450611 0.0000197887 / 0.7)",
+      "background": "rgba(0, 0, 0, 0)",
+      "radius": "0px",
+      "padding": "0px",
+      "border": "0px solid lab(90.952 0 -0.0000119209)",
+      "box": {
+        "x": 1136,
+        "y": 9192.640625,
+        "width": 46.390625,
+        "height": 24,
+        "top": 9192.640625,
+        "right": 1182.390625,
+        "bottom": 9216.640625,
+        "left": 1136
+      }
+    }
+  ],
+  "elements": [
+    {
+      "tag": "A",
+      "text": "Nomu",
+      "font": "Inter, \"Inter Fallback\", system-ui, -apple-system, sans-serif",
+      "size": "16px",
+      "weight": "400",
+      "lineHeight": "24px",
+      "tracking": "normal",
+      "color": "rgb(15, 21, 29)",
+      "background": "rgba(0, 0, 0, 0)",
+      "radius": "0px",
+      "padding": "0px",
+      "border": "0px solid lab(90.952 0 -0.0000119209)",
+      "box": {
+        "x": 0,
+        "y": 0,
+        "width": 0,
+        "height": 0,
+        "top": 0,
+        "right": 0,
+        "bottom": 0,
+        "left": 0
+      }
+    },
+    {
+      "tag": "BUTTON",
+      "text": "",
+      "font": "Inter, \"Inter Fallback\", system-ui, -apple-system, sans-serif",
+      "size": "16px",
+      "weight": "400",
+      "lineHeight": "24px",
+      "tracking": "normal",
+      "color": "rgb(15, 21, 29)",
+      "background": "rgba(0, 0, 0, 0)",
+      "radius": "3.35544e+07px",
+      "padding": "0px",
+      "border": "0px solid lab(90.952 0 -0.0000119209)",
+      "box": {
+        "x": 0,
+        "y": 0,
+        "width": 0,
+        "height": 0,
+        "top": 0,
+        "right": 0,
+        "bottom": 0,
+        "left": 0
+      }
+    },
+    {
+      "tag": "NAV",
+      "text": "NomuPast dropsNommunityStart creating",
+      "font": "Inter, \"Inter Fallback\", system-ui, -apple-system, sans-serif",
+      "size": "16px",
+      "weight": "400",
+      "lineHeight": "24px",
+      "tracking": "normal",
+      "color": "rgb(15, 21, 29)",
+      "background": "rgb(255, 255, 255)",
+      "radius": "3.35544e+07px",
+      "padding": "16px 20px 16px 32px",
+      "border": "1px solid oklab(0 0 0 / 0.05)",
+      "box": {
+        "x": 64,
+        "y": 16,
+        "width": 1312,
+        "height": 82,
+        "top": 16,
+        "right": 1376,
+        "bottom": 98,
+        "left": 64
+      }
+    },
+    {
+      "tag": "A",
+      "text": "Nomu",
+      "font": "Inter, \"Inter Fallback\", system-ui, -apple-system, sans-serif",
+      "size": "16px",
+      "weight": "400",
+      "lineHeight": "24px",
+      "tracking": "normal",
+      "color": "rgb(15, 21, 29)",
+      "background": "rgba(0, 0, 0, 0)",
+      "radius": "0px",
+      "padding": "0px",
+      "border": "0px solid lab(90.952 0 -0.0000119209)",
+      "box": {
+        "x": 97,
+        "y": 43,
+        "width": 112,
+        "height": 28,
+        "top": 43,
+        "right": 209,
+        "bottom": 71,
+        "left": 97
+      }
+    },
+    {
+      "tag": "BUTTON",
+      "text": "Past drops",
+      "font": "Inter, \"Inter Fallback\", system-ui, -apple-system, sans-serif",
+      "size": "16px",
+      "weight": "500",
+      "lineHeight": "24px",
+      "tracking": "normal",
+      "color": "rgb(15, 21, 29)",
+      "background": "rgba(0, 0, 0, 0)",
+      "radius": "3.35544e+07px",
+      "padding": "0px 24px",
+      "border": "0px solid lab(90.952 0 -0.0000119209)",
+      "box": {
+        "x": 545.046875,
+        "y": 35,
+        "width": 147.5625,
+        "height": 44,
+        "top": 35,
+        "right": 692.609375,
+        "bottom": 79,
+        "left": 545.046875
+      }
+    },
+    {
+      "tag": "BUTTON",
+      "text": "Nommunity",
+      "font": "Inter, \"Inter Fallback\", system-ui, -apple-system, sans-serif",
+      "size": "16px",
+      "weight": "500",
+      "lineHeight": "24px",
+      "tracking": "normal",
+      "color": "rgb(15, 21, 29)",
+      "background": "rgba(0, 0, 0, 0)",
+      "radius": "3.35544e+07px",
+      "padding": "0px 24px",
+      "border": "0px solid lab(90.952 0 -0.0000119209)",
+      "box": {
+        "x": 696.609375,
+        "y": 35,
+        "width": 154.453125,
+        "height": 44,
+        "top": 35,
+        "right": 851.0625,
+        "bottom": 79,
+        "left": 696.609375
+      }
+    },
+    {
+      "tag": "A",
+      "text": "Start creating",
+      "font": "Inter, \"Inter Fallback\", system-ui, -apple-system, sans-serif",
+      "size": "16px",
+      "weight": "500",
+      "lineHeight": "24px",
+      "tracking": "normal",
+      "color": "rgb(251, 251, 251)",
+      "background": "rgb(255, 116, 72)",
+      "radius": "3.35544e+07px",
+      "padding": "12px 20px",
+      "border": "0px solid lab(90.952 0 -0.0000119209)",
+      "box": {
+        "x": 1187.109375,
+        "y": 33,
+        "width": 167.890625,
+        "height": 48,
+        "top": 33,
+        "right": 1355,
+        "bottom": 81,
+        "left": 1187.109375
+      }
+    },
+    {
+      "tag": "A",
+      "text": "Backed by",
+      "font": "Inter, \"Inter Fallback\", system-ui, -apple-system, sans-serif",
+      "size": "14px",
+      "weight": "400",
+      "lineHeight": "21px",
+      "tracking": "normal",
+      "color": "rgb(15, 21, 29)",
+      "background": "rgba(0, 0, 0, 0)",
+      "radius": "0px",
+      "padding": "0px",
+      "border": "0px solid lab(90.952 0 -0.0000119209)",
+      "box": {
+        "x": 585.015625,
+        "y": 200,
+        "width": 269.953125,
+        "height": 47.171875,
+        "top": 200,
+        "right": 854.96875,
+        "bottom": 247.171875,
+        "left": 585.015625
+      }
+    },
+    {
+      "tag": "P",
+      "text": "Introducing Vibe Manufacturing.Create custom apparel with AI. Save time on sourcing. Compare manufac",
+      "font": "Inter, \"Inter Fallback\", system-ui, -apple-system, sans-serif",
+      "size": "18px",
+      "weight": "400",
+      "lineHeight": "28.8px",
+      "tracking": "normal",
+      "color": "rgb(116, 123, 131)",
+      "background": "rgba(0, 0, 0, 0)",
+      "radius": "0px",
+      "padding": "0px",
+      "border": "0px solid lab(90.952 0 -0.0000119209)",
+      "box": {
+        "x": 448.9375,
+        "y": 534.953125,
+        "width": 542.109375,
+        "height": 99.59375,
+        "top": 534.953125,
+        "right": 991.046875,
+        "bottom": 634.546875,
+        "left": 448.9375
+      }
+    },
+    {
+      "tag": "A",
+      "text": "Make your first product",
+      "font": "Inter, \"Inter Fallback\", system-ui, -apple-system, sans-serif",
+      "size": "16px",
+      "weight": "500",
+      "lineHeight": "24px",
+      "tracking": "normal",
+      "color": "rgb(255, 255, 255)",
+      "background": "rgb(255, 116, 72)",
+      "radius": "28px",
+      "padding": "12px 20px",
+      "border": "0px none rgb(255, 255, 255)",
+      "box": {
+        "x": 592,
+        "y": 662.546875,
+        "width": 256,
+        "height": 56,
+        "top": 662.546875,
+        "right": 848,
+        "bottom": 718.546875,
+        "left": 592
+      }
+    },
+    {
+      "tag": "BUTTON",
+      "text": "",
+      "font": "Inter, \"Inter Fallback\", system-ui, -apple-system, sans-serif",
+      "size": "14px",
+      "weight": "400",
+      "lineHeight": "21px",
+      "tracking": "normal",
+      "color": "rgb(251, 251, 251)",
+      "background": "rgb(255, 116, 72)",
+      "radius": "50%",
+      "padding": "0px",
+      "border": "0px solid lab(90.952 0 -0.0000119209)",
+      "box": {
+        "x": 999,
+        "y": 679.546875,
+        "width": 40,
+        "height": 40,
+        "top": 679.546875,
+        "right": 1039,
+        "bottom": 719.546875,
+        "left": 999
+      }
+    },
+    {
+      "tag": "P",
+      "text": "Make an oversized dip-dye tee with Solflare logo",
+      "font": "Inter, \"Inter Fallback\", system-ui, -apple-system, sans-serif",
+      "size": "14px",
+      "weight": "400",
+      "lineHeight": "21px",
+      "tracking": "normal",
+      "color": "rgb(15, 21, 29)",
+      "background": "rgba(0, 0, 0, 0)",
+      "radius": "0px",
+      "padding": "0px",
+      "border": "0px solid lab(90.952 0 -0.0000119209)",
+      "box": {
+        "x": 635.0625,
+        "y": 489.5,
+        "width": 322.9375,
+        "height": 21,
+        "top": 489.5,
+        "right": 958,
+        "bottom": 510.5,
+        "left": 635.0625
+      }
+    },
+    {
+      "tag": "P",
+      "text": "Supported by",
+      "font": "Inter, \"Inter Fallback\", system-ui, -apple-system, sans-serif",
+      "size": "16px",
+      "weight": "400",
+      "lineHeight": "16px",
+      "tracking": "normal",
+      "color": "oklab(0.19354 -0.00460264 -0.0181479 / 0.4)",
+      "background": "rgba(0, 0, 0, 0)",
+      "radius": "0px",
+      "padding": "0px",
+      "border": "0px solid lab(90.952 0 -0.0000119209)",
+      "box": {
+        "x": 88,
+        "y": 1140,
+        "width": 102.375,
+        "height": 16,
+        "top": 1140,
+        "right": 190.375,
+        "bottom": 1156,
+        "left": 88
+      }
+    },
+    {
+      "tag": "P",
+      "text": "Imagine it, prompt it, & we’ll deliver it to Breakpoint for free.",
+      "font": "Inter, \"Inter Fallback\", system-ui, -apple-system, sans-serif",
+      "size": "16px",
+      "weight": "400",
+      "lineHeight": "24px",
+      "tracking": "normal",
+      "color": "oklab(0.19354 -0.00460264 -0.0181479 / 0.6)",
+      "background": "rgba(0, 0, 0, 0)",
+      "radius": "0px",
+      "padding": "0px",
+      "border": "0px solid lab(90.952 0 -0.0000119209)",
+      "box": {
+        "x": 432,
+        "y": 1468,
+        "width": 576,
+        "height": 24,
+        "top": 1468,
+        "right": 1008,
+        "bottom": 1492,
+        "left": 432
+      }
+    },
+    {
+      "tag": "A",
+      "text": "Create it now",
+      "font": "Inter, \"Inter Fallback\", system-ui, -apple-system, sans-serif",
+      "size": "16px",
+      "weight": "500",
+      "lineHeight": "24px",
+      "tracking": "normal",
+      "color": "rgb(251, 251, 251)",
+      "background": "rgb(255, 116, 72)",
+      "radius": "48px",
+      "padding": "16px 28px 16px 32px",
+      "border": "0px solid lab(90.952 0 -0.0000119209)",
+      "box": {
+        "x": 625.375,
+        "y": 1528,
+        "width": 189.25,
+        "height": 56,
+        "top": 1528,
+        "right": 814.625,
+        "bottom": 1584,
+        "left": 625.375
+      }
+    },
+    {
+      "tag": "P",
+      "text": "Pick & pack + sales tax support wherever you sell.",
+      "font": "Inter, \"Inter Fallback\", system-ui, -apple-system, sans-serif",
+      "size": "16px",
+      "weight": "400",
+      "lineHeight": "22px",
+      "tracking": "normal",
+      "color": "oklab(0.19354 -0.00460264 -0.0181479 / 0.65)",
+      "background": "rgba(0, 0, 0, 0)",
+      "radius": "0px",
+      "padding": "0px",
+      "border": "0px solid lab(90.952 0 -0.0000119209)",
+      "box": {
+        "x": 121,
+        "y": 2564.640625,
+        "width": 312.65625,
+        "height": 44,
+        "top": 2564.640625,
+        "right": 433.65625,
+        "bottom": 2608.640625,
+        "left": 121
+      }
+    },
+    {
+      "tag": "P",
+      "text": "Gate products, calibrate price, and offer perks in real time to win over every human or agent.",
+      "font": "Inter, \"Inter Fallback\", system-ui, -apple-system, sans-serif",
+      "size": "16px",
+      "weight": "400",
+      "lineHeight": "22px",
+      "tracking": "normal",
+      "color": "oklab(0.19354 -0.00460264 -0.0181479 / 0.65)",
+      "background": "rgba(0, 0, 0, 0)",
+      "radius": "0px",
+      "padding": "0px",
+      "border": "0px solid lab(90.952 0 -0.0000119209)",
+      "box": {
+        "x": 563.65625,
+        "y": 2528.640625,
+        "width": 755.34375,
+        "height": 22,
+        "top": 2528.640625,
+        "right": 1319,
+        "bottom": 2550.640625,
+        "left": 563.65625
+      }
+    },
+    {
+      "tag": "P",
+      "text": "Live·$1M GMV",
+      "font": "Inter, \"Inter Fallback\", system-ui, -apple-system, sans-serif",
+      "size": "12px",
+      "weight": "500",
+      "lineHeight": "16px",
+      "tracking": "normal",
+      "color": "rgb(15, 21, 29)",
+      "background": "rgba(0, 0, 0, 0)",
+      "radius": "0px",
+      "padding": "0px",
+      "border": "0px solid lab(90.952 0 -0.0000119209)",
+      "box": {
+        "x": 0,
+        "y": 0,
+        "width": 0,
+        "height": 0,
+        "top": 0,
+        "right": 0,
+        "bottom": 0,
+        "left": 0
+      }
+    },
+    {
+      "tag": "P",
+      "text": "Create Gachas",
+      "font": "Inter, \"Inter Fallback\", system-ui, -apple-system, sans-serif",
+      "size": "16px",
+      "weight": "500",
+      "lineHeight": "22px",
+      "tracking": "normal",
+      "color": "rgb(15, 21, 29)",
+      "background": "rgba(0, 0, 0, 0)",
+      "radius": "0px",
+      "padding": "0px",
+      "border": "0px solid lab(90.952 0 -0.0000119209)",
+      "box": {
+        "x": 0,
+        "y": 0,
+        "width": 0,
+        "height": 0,
+        "top": 0,
+        "right": 0,
+        "bottom": 0,
+        "left": 0
+      }
+    },
+    {
+      "tag": "P",
+      "text": "Your own interactive blind box drops.",
+      "font": "Inter, \"Inter Fallback\", system-ui, -apple-system, sans-serif",
+      "size": "14px",
+      "weight": "400",
+      "lineHeight": "19.25px",
+      "tracking": "normal",
+      "color": "oklab(0.19354 -0.00460264 -0.0181479 / 0.55)",
+      "background": "rgba(0, 0, 0, 0)",
+      "radius": "0px",
+      "padding": "0px",
+      "border": "0px solid lab(90.952 0 -0.0000119209)",
+      "box": {
+        "x": 0,
+        "y": 0,
+        "width": 0,
+        "height": 0,
+        "top": 0,
+        "right": 0,
+        "bottom": 0,
+        "left": 0
+      }
+    },
+    {
+      "tag": "P",
+      "text": "Forecast inventory",
+      "font": "Inter, \"Inter Fallback\", system-ui, -apple-system, sans-serif",
+      "size": "16px",
+      "weight": "500",
+      "lineHeight": "22px",
+      "tracking": "normal",
+      "color": "rgb(15, 21, 29)",
+      "background": "rgba(0, 0, 0, 0)",
+      "radius": "0px",
+      "padding": "0px",
+      "border": "0px solid lab(90.952 0 -0.0000119209)",
+      "box": {
+        "x": 0,
+        "y": 0,
+        "width": 0,
+        "height": 0,
+        "top": 0,
+        "right": 0,
+        "bottom": 0,
+        "left": 0
+      }
+    },
+    {
+      "tag": "P",
+      "text": "Avoid stockouts or dead stock.",
+      "font": "Inter, \"Inter Fallback\", system-ui, -apple-system, sans-serif",
+      "size": "14px",
+      "weight": "400",
+      "lineHeight": "19.25px",
+      "tracking": "normal",
+      "color": "oklab(0.19354 -0.00460264 -0.0181479 / 0.55)",
+      "background": "rgba(0, 0, 0, 0)",
+      "radius": "0px",
+      "padding": "0px",
+      "border": "0px solid lab(90.952 0 -0.0000119209)",
+      "box": {
+        "x": 0,
+        "y": 0,
+        "width": 0,
+        "height": 0,
+        "top": 0,
+        "right": 0,
+        "bottom": 0,
+        "left": 0
+      }
+    },
+    {
+      "tag": "P",
+      "text": "AI + human support",
+      "font": "Inter, \"Inter Fallback\", system-ui, -apple-system, sans-serif",
+      "size": "16px",
+      "weight": "500",
+      "lineHeight": "22px",
+      "tracking": "normal",
+      "color": "rgb(15, 21, 29)",
+      "background": "rgba(0, 0, 0, 0)",
+      "radius": "0px",
+      "padding": "0px",
+      "border": "0px solid lab(90.952 0 -0.0000119209)",
+      "box": {
+        "x": 0,
+        "y": 0,
+        "width": 0,
+        "height": 0,
+        "top": 0,
+        "right": 0,
+        "bottom": 0,
+        "left": 0
+      }
+    },
+    {
+      "tag": "P",
+      "text": "Handled according to your SOPs.",
+      "font": "Inter, \"Inter Fallback\", system-ui, -apple-system, sans-serif",
+      "size": "14px",
+      "weight": "400",
+      "lineHeight": "19.25px",
+      "tracking": "normal",
+      "color": "oklab(0.19354 -0.00460264 -0.0181479 / 0.55)",
+      "background": "rgba(0, 0, 0, 0)",
+      "radius": "0px",
+      "padding": "0px",
+      "border": "0px solid lab(90.952 0 -0.0000119209)",
+      "box": {
+        "x": 0,
+        "y": 0,
+        "width": 0,
+        "height": 0,
+        "top": 0,
+        "right": 0,
+        "bottom": 0,
+        "left": 0
+      }
+    },
+    {
+      "tag": "P",
+      "text": "Send mkt emails",
+      "font": "Inter, \"Inter Fallback\", system-ui, -apple-system, sans-serif",
+      "size": "16px",
+      "weight": "500",
+      "lineHeight": "22px",
+      "tracking": "normal",
+      "color": "rgb(15, 21, 29)",
+      "background": "rgba(0, 0, 0, 0)",
+      "radius": "0px",
+      "padding": "0px",
+      "border": "0px solid lab(90.952 0 -0.0000119209)",
+      "box": {
+        "x": 0,
+        "y": 0,
+        "width": 0,
+        "height": 0,
+        "top": 0,
+        "right": 0,
+        "bottom": 0,
+        "left": 0
+      }
+    },
+    {
+      "tag": "P",
+      "text": "Beautiful announcement emails in-house.",
+      "font": "Inter, \"Inter Fallback\", system-ui, -apple-system, sans-serif",
+      "size": "14px",
+      "weight": "400",
+      "lineHeight": "19.25px",
+      "tracking": "normal",
+      "color": "oklab(0.19354 -0.00460264 -0.0181479 / 0.55)",
+      "background": "rgba(0, 0, 0, 0)",
+      "radius": "0px",
+      "padding": "0px",
+      "border": "0px solid lab(90.952 0 -0.0000119209)",
+      "box": {
+        "x": 0,
+        "y": 0,
+        "width": 0,
+        "height": 0,
+        "top": 0,
+        "right": 0,
+        "bottom": 0,
+        "left": 0
+      }
+    },
+    {
+      "tag": "P",
+      "text": "Sell to AI agents",
+      "font": "Inter, \"Inter Fallback\", system-ui, -apple-system, sans-serif",
+      "size": "16px",
+      "weight": "500",
+      "lineHeight": "22px",
+      "tracking": "normal",
+      "color": "rgb(15, 21, 29)",
+      "background": "rgba(0, 0, 0, 0)",
+      "radius": "0px",
+      "padding": "0px",
+      "border": "0px solid lab(90.952 0 -0.0000119209)",
+      "box": {
+        "x": 0,
+        "y": 0,
+        "width": 0,
+        "height": 0,
+        "top": 0,
+        "right": 0,
+        "bottom": 0,
+        "left": 0
+      }
+    },
+    {
+      "tag": "P",
+      "text": "Discoverable to agents & x402-ready checkout.",
+      "font": "Inter, \"Inter Fallback\", system-ui, -apple-system, sans-serif",
+      "size": "14px",
+      "weight": "400",
+      "lineHeight": "19.25px",
+      "tracking": "normal",
+      "color": "oklab(0.19354 -0.00460264 -0.0181479 / 0.55)",
+      "background": "rgba(0, 0, 0, 0)",
+      "radius": "0px",
+      "padding": "0px",
+      "border": "0px solid lab(90.952 0 -0.0000119209)",
+      "box": {
+        "x": 0,
+        "y": 0,
+        "width": 0,
+        "height": 0,
+        "top": 0,
+        "right": 0,
+        "bottom": 0,
+        "left": 0
+      }
+    },
+    {
+      "tag": "P",
+      "text": "Accept fiat & crypto",
+      "font": "Inter, \"Inter Fallback\", system-ui, -apple-system, sans-serif",
+      "size": "16px",
+      "weight": "500",
+      "lineHeight": "22px",
+      "tracking": "normal",
+      "color": "rgb(15, 21, 29)",
+      "background": "rgba(0, 0, 0, 0)",
+      "radius": "0px",
+      "padding": "0px",
+      "border": "0px solid lab(90.952 0 -0.0000119209)",
+      "box": {
+        "x": 0,
+        "y": 0,
+        "width": 0,
+        "height": 0,
+        "top": 0,
+        "right": 0,
+        "bottom": 0,
+        "left": 0
+      }
+    },
+    {
+      "tag": "P",
+      "text": "Cards, SPL tokens. One native checkout.",
+      "font": "Inter, \"Inter Fallback\", system-ui, -apple-system, sans-serif",
+      "size": "14px",
+      "weight": "400",
+      "lineHeight": "19.25px",
+      "tracking": "normal",
+      "color": "oklab(0.19354 -0.00460264 -0.0181479 / 0.55)",
+      "background": "rgba(0, 0, 0, 0)",
+      "radius": "0px",
+      "padding": "0px",
+      "border": "0px solid lab(90.952 0 -0.0000119209)",
+      "box": {
+        "x": 0,
+        "y": 0,
+        "width": 0,
+        "height": 0,
+        "top": 0,
+        "right": 0,
+        "bottom": 0,
+        "left": 0
+      }
+    },
+    {
+      "tag": "P",
+      "text": "Tracking on every order",
+      "font": "Inter, \"Inter Fallback\", system-ui, -apple-system, sans-serif",
+      "size": "16px",
+      "weight": "500",
+      "lineHeight": "22px",
+      "tracking": "normal",
+      "color": "rgb(15, 21, 29)",
+      "background": "rgba(0, 0, 0, 0)",
+      "radius": "0px",
+      "padding": "0px",
+      "border": "0px solid lab(90.952 0 -0.0000119209)",
+      "box": {
+        "x": 0,
+        "y": 0,
+        "width": 0,
+        "height": 0,
+        "top": 0,
+        "right": 0,
+        "bottom": 0,
+        "left": 0
+      }
+    },
+    {
+      "tag": "P",
+      "text": "Live status updates across every channel.",
+      "font": "Inter, \"Inter Fallback\", system-ui, -apple-system, sans-serif",
+      "size": "14px",
+      "weight": "400",
+      "lineHeight": "19.25px",
+      "tracking": "normal",
+      "color": "oklab(0.19354 -0.00460264 -0.0181479 / 0.55)",
+      "background": "rgba(0, 0, 0, 0)",
+      "radius": "0px",
+      "padding": "0px",
+      "border": "0px solid lab(90.952 0 -0.0000119209)",
+      "box": {
+        "x": 0,
+        "y": 0,
+        "width": 0,
+        "height": 0,
+        "top": 0,
+        "right": 0,
+        "bottom": 0,
+        "left": 0
+      }
+    },
+    {
+      "tag": "P",
+      "text": "Live·$1M GMV",
+      "font": "Inter, \"Inter Fallback\", system-ui, -apple-system, sans-serif",
+      "size": "12px",
+      "weight": "500",
+      "lineHeight": "16px",
+      "tracking": "normal",
+      "color": "rgb(15, 21, 29)",
+      "background": "rgba(0, 0, 0, 0)",
+      "radius": "0px",
+      "padding": "0px",
+      "border": "0px solid lab(90.952 0 -0.0000119209)",
+      "box": {
+        "x": 0,
+        "y": 0,
+        "width": 0,
+        "height": 0,
+        "top": 0,
+        "right": 0,
+        "bottom": 0,
+        "left": 0
+      }
+    },
+    {
+      "tag": "P",
+      "text": "Create Gachas",
+      "font": "Inter, \"Inter Fallback\", system-ui, -apple-system, sans-serif",
+      "size": "16px",
+      "weight": "500",
+      "lineHeight": "22px",
+      "tracking": "normal",
+      "color": "rgb(15, 21, 29)",
+      "background": "rgba(0, 0, 0, 0)",
+      "radius": "0px",
+      "padding": "0px",
+      "border": "0px solid lab(90.952 0 -0.0000119209)",
+      "box": {
+        "x": 0,
+        "y": 0,
+        "width": 0,
+        "height": 0,
+        "top": 0,
+        "right": 0,
+        "bottom": 0,
+        "left": 0
+      }
+    },
+    {
+      "tag": "P",
+      "text": "Your own interactive blind box drops.",
+      "font": "Inter, \"Inter Fallback\", system-ui, -apple-system, sans-serif",
+      "size": "14px",
+      "weight": "400",
+      "lineHeight": "19.25px",
+      "tracking": "normal",
+      "color": "oklab(0.19354 -0.00460264 -0.0181479 / 0.55)",
+      "background": "rgba(0, 0, 0, 0)",
+      "radius": "0px",
+      "padding": "0px",
+      "border": "0px solid lab(90.952 0 -0.0000119209)",
+      "box": {
+        "x": 0,
+        "y": 0,
+        "width": 0,
+        "height": 0,
+        "top": 0,
+        "right": 0,
+        "bottom": 0,
+        "left": 0
+      }
+    },
+    {
+      "tag": "P",
+      "text": "Forecast inventory",
+      "font": "Inter, \"Inter Fallback\", system-ui, -apple-system, sans-serif",
+      "size": "16px",
+      "weight": "500",
+      "lineHeight": "22px",
+      "tracking": "normal",
+      "color": "rgb(15, 21, 29)",
+      "background": "rgba(0, 0, 0, 0)",
+      "radius": "0px",
+      "padding": "0px",
+      "border": "0px solid lab(90.952 0 -0.0000119209)",
+      "box": {
+        "x": 0,
+        "y": 0,
+        "width": 0,
+        "height": 0,
+        "top": 0,
+        "right": 0,
+        "bottom": 0,
+        "left": 0
+      }
+    },
+    {
+      "tag": "P",
+      "text": "Avoid stockouts or dead stock.",
+      "font": "Inter, \"Inter Fallback\", system-ui, -apple-system, sans-serif",
+      "size": "14px",
+      "weight": "400",
+      "lineHeight": "19.25px",
+      "tracking": "normal",
+      "color": "oklab(0.19354 -0.00460264 -0.0181479 / 0.55)",
+      "background": "rgba(0, 0, 0, 0)",
+      "radius": "0px",
+      "padding": "0px",
+      "border": "0px solid lab(90.952 0 -0.0000119209)",
+      "box": {
+        "x": 0,
+        "y": 0,
+        "width": 0,
+        "height": 0,
+        "top": 0,
+        "right": 0,
+        "bottom": 0,
+        "left": 0
+      }
+    },
+    {
+      "tag": "P",
+      "text": "AI + human support",
+      "font": "Inter, \"Inter Fallback\", system-ui, -apple-system, sans-serif",
+      "size": "16px",
+      "weight": "500",
+      "lineHeight": "22px",
+      "tracking": "normal",
+      "color": "rgb(15, 21, 29)",
+      "background": "rgba(0, 0, 0, 0)",
+      "radius": "0px",
+      "padding": "0px",
+      "border": "0px solid lab(90.952 0 -0.0000119209)",
+      "box": {
+        "x": 0,
+        "y": 0,
+        "width": 0,
+        "height": 0,
+        "top": 0,
+        "right": 0,
+        "bottom": 0,
+        "left": 0
+      }
+    },
+    {
+      "tag": "P",
+      "text": "Handled according to your SOPs.",
+      "font": "Inter, \"Inter Fallback\", system-ui, -apple-system, sans-serif",
+      "size": "14px",
+      "weight": "400",
+      "lineHeight": "19.25px",
+      "tracking": "normal",
+      "color": "oklab(0.19354 -0.00460264 -0.0181479 / 0.55)",
+      "background": "rgba(0, 0, 0, 0)",
+      "radius": "0px",
+      "padding": "0px",
+      "border": "0px solid lab(90.952 0 -0.0000119209)",
+      "box": {
+        "x": 0,
+        "y": 0,
+        "width": 0,
+        "height": 0,
+        "top": 0,
+        "right": 0,
+        "bottom": 0,
+        "left": 0
+      }
+    },
+    {
+      "tag": "P",
+      "text": "Send mkt emails",
+      "font": "Inter, \"Inter Fallback\", system-ui, -apple-system, sans-serif",
+      "size": "16px",
+      "weight": "500",
+      "lineHeight": "22px",
+      "tracking": "normal",
+      "color": "rgb(15, 21, 29)",
+      "background": "rgba(0, 0, 0, 0)",
+      "radius": "0px",
+      "padding": "0px",
+      "border": "0px solid lab(90.952 0 -0.0000119209)",
+      "box": {
+        "x": 0,
+        "y": 0,
+        "width": 0,
+        "height": 0,
+        "top": 0,
+        "right": 0,
+        "bottom": 0,
+        "left": 0
+      }
+    }
+  ],
+  "colors": [
+    [
+      "rgb(15, 21, 29)",
+      727
+    ],
+    [
+      "oklab(0.19354 -0.00460264 -0.0181479 / 0.8)",
+      148
+    ],
+    [
+      "rgb(251, 251, 251)",
+      134
+    ],
+    [
+      "oklab(0.19354 -0.00460264 -0.0181479 / 0.55)",
+      47
+    ],
+    [
+      "rgb(255, 249, 246)",
+      37
+    ],
+    [
+      "rgb(112, 121, 132)",
+      24
+    ],
+    [
+      "rgb(255, 255, 255)",
+      23
+    ],
+    [
+      "rgb(255, 116, 72)",
+      21
+    ],
+    [
+      "rgba(0, 0, 0, 0)",
+      18
+    ],
+    [
+      "rgb(35, 124, 101)",
+      18
+    ],
+    [
+      "oklab(0.19354 -0.00460264 -0.0181479 / 0.75)",
+      17
+    ],
+    [
+      "rgb(0, 0, 0)",
+      14
+    ],
+    [
+      "rgb(155, 162, 170)",
+      13
+    ],
+    [
+      "rgb(36, 60, 97)",
+      12
+    ],
+    [
+      "lab(48.496 0 0)",
+      12
+    ],
+    [
+      "rgba(15, 21, 29, 0.55)",
+      6
+    ]
+  ],
+  "backgrounds": [
+    [
+      "rgba(0, 0, 0, 0)",
+      1137
+    ],
+    [
+      "lab(100 0 0)",
+      49
+    ],
+    [
+      "oklab(0.145 -0.00000143796 0.00000340492 / 0.05)",
+      42
+    ],
+    [
+      "oklab(0.19354 -0.00460264 -0.0181479 / 0.04)",
+      13
+    ],
+    [
+      "rgb(255, 249, 246)",
+      12
+    ],
+    [
+      "rgb(248, 249, 251)",
+      12
+    ],
+    [
+      "rgb(211, 225, 255)",
+      9
+    ],
+    [
+      "rgb(255, 116, 72)",
+      8
+    ],
+    [
+      "oklab(0.999994 0.0000455677 0.0000200868 / 0.8)",
+      8
+    ],
+    [
+      "rgb(34, 197, 94)",
+      8
+    ],
+    [
+      "rgba(255, 255, 255, 0.7)",
+      6
+    ],
+    [
+      "rgba(255, 255, 255, 0.15)",
+      5
+    ],
+    [
+      "rgb(15, 21, 29)",
+      5
+    ],
+    [
+      "rgb(255, 255, 255)",
+      3
+    ],
+    [
+      "oklab(0.999994 0.0000455678 0.0000200868 / 0.06)",
+      3
+    ],
+    [
+      "rgb(220, 231, 255)",
+      3
+    ]
+  ],
+  "fonts": [
+    {
+      "family": "Inter",
+      "weight": "100 900",
+      "status": "unloaded"
+    },
+    {
+      "family": "Inter",
+      "weight": "100 900",
+      "status": "unloaded"
+    },
+    {
+      "family": "Inter",
+      "weight": "100 900",
+      "status": "unloaded"
+    },
+    {
+      "family": "Inter",
+      "weight": "100 900",
+      "status": "unloaded"
+    },
+    {
+      "family": "Inter",
+      "weight": "100 900",
+      "status": "unloaded"
+    },
+    {
+      "family": "Inter",
+      "weight": "100 900",
+      "status": "unloaded"
+    },
+    {
+      "family": "Inter",
+      "weight": "100 900",
+      "status": "loaded"
+    },
+    {
+      "family": "Inter Fallback",
+      "weight": "normal",
+      "status": "loaded"
+    },
+    {
+      "family": "nomnom",
+      "weight": "normal",
+      "status": "unloaded"
+    },
+    {
+      "family": "nomnom Fallback",
+      "weight": "normal",
+      "status": "unloaded"
+    }
+  ],
+  "fontResources": [
+    "https://nomu.store/_next/static/media/83afe278b6a6bb3c-s.p.2bn3s6zvc0dyp.woff2?dpl=dpl_DTa2ue75iBWnHwybFTA4MSo4AnaK",
+    "https://nomu.store/_next/static/media/NomNomFontV1_Regular-s.p.3_7et2nw-dbkn.otf?dpl=dpl_DTa2ue75iBWnHwybFTA4MSo4AnaK"
+  ],
+  "stylesheets": [
+    "https://nomu.store/_next/static/chunks/1qbphkpwsvpoz.css?dpl=dpl_DTa2ue75iBWnHwybFTA4MSo4AnaK",
+    "https://nomu.store/_next/static/chunks/3jr5_itvm0w76.css?dpl=dpl_DTa2ue75iBWnHwybFTA4MSo4AnaK",
+    "https://nomu.store/_next/static/chunks/1s-kvhz90qm11.css?dpl=dpl_DTa2ue75iBWnHwybFTA4MSo4AnaK",
+    "https://nomu.store/_next/static/chunks/1gxzcjz2_46-8.css?dpl=dpl_DTa2ue75iBWnHwybFTA4MSo4AnaK",
+    "https://nomu.store/_next/static/chunks/3nqjdawizs89d.css?dpl=dpl_DTa2ue75iBWnHwybFTA4MSo4AnaK"
+  ],
+  "fontFaces": [
+    "@font-face { font-family: Inter; font-style: normal; font-weight: 100 900; font-display: swap; src: url(\"../media/2c55a0e60120577a-s.0-dom-5bn10r2.woff2?dpl=dpl_DTa2ue75iBWnHwybFTA4MSo4AnaK\") format(\"woff2\"); unicode-range: U+460-52F, U+1C80-1C8A, U+20B4, U+2DE0-2DFF, U+A640-A69F, U+FE2E-FE2F; }",
+    "@font-face { font-family: Inter; font-style: normal; font-weight: 100 900; font-display: swap; src: url(\"../media/9c72aa0f40e4eef8-s.1y4-pdgsjb-pw.woff2?dpl=dpl_DTa2ue75iBWnHwybFTA4MSo4AnaK\") format(\"woff2\"); unicode-range: U+301, U+400-45F, U+490-491, U+4B0-4B1, U+2116; }",
+    "@font-face { font-family: Inter; font-style: normal; font-weight: 100 900; font-display: swap; src: url(\"../media/ad66f9afd8947f86-s.3lvt2whj97whp.woff2?dpl=dpl_DTa2ue75iBWnHwybFTA4MSo4AnaK\") format(\"woff2\"); unicode-range: U+1F00-1FFF; }",
+    "@font-face { font-family: Inter; font-style: normal; font-weight: 100 900; font-display: swap; src: url(\"../media/5476f68d60460930-s.2uwcyprjm3xu3.woff2?dpl=dpl_DTa2ue75iBWnHwybFTA4MSo4AnaK\") format(\"woff2\"); unicode-range: U+370-377, U+37A-37F, U+384-38A, U+38C, U+38E-3A1, U+3A3-3FF; }",
+    "@font-face { font-family: Inter; font-style: normal; font-weight: 100 900; font-display: swap; src: url(\"../media/2bbe8d2671613f1f-s.0k62hbripvv8p.woff2?dpl=dpl_DTa2ue75iBWnHwybFTA4MSo4AnaK\") format(\"woff2\"); unicode-range: U+102-103, U+110-111, U+128-129, U+168-169, U+1A0-1A1, U+1AF-1B0, U+300-301, U+303-304, U+308-309, U+323, U+329, U+1EA0-1EF9, U+20AB; }",
+    "@font-face { font-family: Inter; font-style: normal; font-weight: 100 900; font-display: swap; src: url(\"../media/1bffadaabf893a1e-s.3-6t-g6q0vh0a.woff2?dpl=dpl_DTa2ue75iBWnHwybFTA4MSo4AnaK\") format(\"woff2\"); unicode-range: U+100-2BA, U+2BD-2C5, U+2C7-2CC, U+2CE-2D7, U+2DD-2FF, U+304, U+308, U+329, U+1D00-1DBF, U+1E00-1E9F, U+1EF2-1EFF, U+2020, U+20A0-20AB, U+20AD-20C0, U+2113, U+2C60-2C7F, U+A720-A7FF; }",
+    "@font-face { font-family: Inter; font-style: normal; font-weight: 100 900; font-display: swap; src: url(\"../media/83afe278b6a6bb3c-s.p.2bn3s6zvc0dyp.woff2?dpl=dpl_DTa2ue75iBWnHwybFTA4MSo4AnaK\") format(\"woff2\"); unicode-range: U+0-FF, U+131, U+152-153, U+2BB-2BC, U+2C6, U+2DA, U+2DC, U+304, U+308, U+329, U+2000-206F, U+20AC, U+2122, U+2191, U+2193, U+2212, U+2215, U+FEFF, U+FFFD; }",
+    "@font-face { font-family: \"Inter Fallback\"; src: local(\"Arial\"); ascent-override: 90.44%; descent-override: 22.52%; line-gap-override: 0%; size-adjust: 107.12%; }",
+    "@font-face { font-family: nomnom; src: url(\"../media/NomNomFontV1_Regular-s.p.3_7et2nw-dbkn.otf?dpl=dpl_DTa2ue75iBWnHwybFTA4MSo4AnaK\") format(\"opentype\"); font-display: swap; }",
+    "@font-face { font-family: \"nomnom Fallback\"; src: local(\"Arial\"); ascent-override: 51.97%; descent-override: 7.79%; line-gap-override: 6.43%; size-adjust: 139.9%; }"
+  ]
+}
