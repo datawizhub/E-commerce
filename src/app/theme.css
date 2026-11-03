@@ -79,10 +79,10 @@
   font-weight: 500;
 }
 .store-header > .icon-button:last-child {
-  background: var(--secondary);
+  background: var(--primary);
 }
 .store-header > .icon-button:last-child:hover {
-  background: #bfceeb;
+  background: #ff8d69;
 }
 .hero {
   grid-template-columns: 52% 48%;
