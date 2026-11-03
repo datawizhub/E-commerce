@@ -576,7 +576,7 @@
     min-height: 38px;
   }
   .hero {
-    margin: 12px 6% 0;
+    margin: 12px 6% 45px;
     min-height: 0;
   }
   .hero-copy {
@@ -618,11 +618,10 @@
     grid-row: 2;
     margin: 0 0 16px;
     padding: 0;
-    justify-content: center;
+    justify-content: flex-start;
   }
   .category-strip > div {
     flex-wrap: wrap;
-    justify-content: center;
     gap: 8px;
   }
   .category-strip a {
@@ -632,9 +631,8 @@
     gap: 7px;
   }
   .details-list > div {
-    grid-template-columns: repeat(2, minmax(0, 1fr));
     align-items: center;
-    text-align: center;
+    text-align: left;
     overflow-wrap: anywhere;
   }
   .product-section {

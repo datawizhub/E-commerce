@@ -923,10 +923,11 @@ ul {
   border-top: 1px solid var(--line);
   border-bottom: 1px solid var(--line);
   font-size: 12px !important;
-  margin: 25px 0;
+  margin: 25px 0 0;
 }
 .details-list {
   font-size: 13px;
+  margin: 0;
 }
 .details-list > div {
   display: grid;
